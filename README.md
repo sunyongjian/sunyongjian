@@ -1,6 +1,6 @@
 ### Hi there,I'm Sun Yongjian. 👋
 
-- 💻 I'm a front-end expert developer, now working in [Didi](http://github.com/didi)
+- 💻 I'm a front-end expert engineer, now working in [Didi](http://github.com/didi)
 - 🔭 I’m currently working on [LogicFlow](https://github.com/didi/LogicFlow)
 - ✍️ Personal Chinese [Blog](https://github.com/sunyongjian/blog), welcome star
 - 💬 Contact me by Email or WeChat
