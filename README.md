@@ -5,8 +5,6 @@
 - ✍️ Personal Chinese [Blog](https://github.com/sunyongjian/blog), welcome star
 - 💬 Contact me by Email or WeChat
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sunyongjian)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **sunyongjian/sunyongjian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
